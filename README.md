@@ -7,6 +7,7 @@ This repository contains the following courses. Some courses are for topics I am
 * WebGL
 * Equation Modelling
 * Data Science
+* Jupyter
 
 ******
 
